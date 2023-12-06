@@ -1,2 +1,4 @@
-**Conda Environment with cuda**: conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia 
-**Conda Environment without cuda**: conda install pytorch torchvision torchaudio cpuonly -c pytorch
+Conda Environment with cuda: conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia 
+Conda Environment without cuda: conda install pytorch torchvision torchaudio cpuonly -c pytorch
+
+
